@@ -3,7 +3,7 @@ An animated real time walking route from MIT to Harvard Hall. I customized my ma
 Instruction: 
 	• In the File menu, click Clone Repository.
 	• Click the tab that corresponds to the location of the repository you want to clone.
-	• Choose the reposoty you want to clone from the list.
+	• Choose the repository you want to clone from the list.
 	• Click choose and navigate to a local path where you want to clone the repository.
 	• Click Clone.
 	• Start running the file index.html
